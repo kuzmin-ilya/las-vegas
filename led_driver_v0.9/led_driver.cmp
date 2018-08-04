@@ -1,0 +1,323 @@
+Cmp-Mod V01 Created by PcbNew   date = Пт 03 авг 2018 23:08:31
+
+BeginCmp
+TimeStamp = 4DC026BF
+Path = /4DC016B5
+Reference = Q4;
+ValeurCmp = MOSFET_N;
+IdModule  = TO220_VERT;
+EndCmp
+
+BeginCmp
+TimeStamp = 4DC026C8
+Path = /4DC016C8
+Reference = Q3;
+ValeurCmp = MOSFET_N;
+IdModule  = TO220_VERT;
+EndCmp
+
+BeginCmp
+TimeStamp = 4DC026C5
+Path = /4DC016A8
+Reference = Q2;
+ValeurCmp = MOSFET_N;
+IdModule  = TO220_VERT;
+EndCmp
+
+BeginCmp
+TimeStamp = 4DC026BC
+Path = /4DC01135
+Reference = Q1;
+ValeurCmp = MOSFET_N;
+IdModule  = TO220_VERT;
+EndCmp
+
+BeginCmp
+TimeStamp = 4DC017EA
+Path = /4DC016C9
+Reference = U1;
+ValeurCmp = LM324N;
+IdModule  = DIP-14__300_ELL;
+EndCmp
+
+BeginCmp
+TimeStamp = 4DC017EB
+Path = /4DC016B9
+Reference = R24;
+ValeurCmp = R;
+IdModule  = R7;
+EndCmp
+
+BeginCmp
+TimeStamp = 4DC017ED
+Path = /4DC016C4
+Reference = R23;
+ValeurCmp = R;
+IdModule  = R7;
+EndCmp
+
+BeginCmp
+TimeStamp = 4DC017EF
+Path = /4DC016A4
+Reference = R22;
+ValeurCmp = R;
+IdModule  = R7;
+EndCmp
+
+BeginCmp
+TimeStamp = 4DC017F1
+Path = /4DC01166
+Reference = R21;
+ValeurCmp = R;
+IdModule  = R7;
+EndCmp
+
+BeginCmp
+TimeStamp = 4DC017F3
+Path = /4DC016B7
+Reference = R20;
+ValeurCmp = R;
+IdModule  = R7;
+EndCmp
+
+BeginCmp
+TimeStamp = 4DC017F5
+Path = /4DC016C6
+Reference = R19;
+ValeurCmp = R;
+IdModule  = R7;
+EndCmp
+
+BeginCmp
+TimeStamp = 4DC017F7
+Path = /4DC016A6
+Reference = R18;
+ValeurCmp = R;
+IdModule  = R7;
+EndCmp
+
+BeginCmp
+TimeStamp = 4DC017F9
+Path = /4DC0115D
+Reference = R17;
+ValeurCmp = R;
+IdModule  = R7;
+EndCmp
+
+BeginCmp
+TimeStamp = 4DC017FB
+Path = /4DC016B8
+Reference = R16;
+ValeurCmp = R;
+IdModule  = R7;
+EndCmp
+
+BeginCmp
+TimeStamp = 4DC017FD
+Path = /4DC016C5
+Reference = R15;
+ValeurCmp = R;
+IdModule  = R7;
+EndCmp
+
+BeginCmp
+TimeStamp = 4DC017FF
+Path = /4DC016A5
+Reference = R14;
+ValeurCmp = R;
+IdModule  = R7;
+EndCmp
+
+BeginCmp
+TimeStamp = 4DC01801
+Path = /4DC01163
+Reference = R13;
+ValeurCmp = R;
+IdModule  = R7;
+EndCmp
+
+BeginCmp
+TimeStamp = 4DC01802
+Path = /4DC016B6
+Reference = R12;
+ValeurCmp = R;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 4DC01804
+Path = /4DC016C7
+Reference = R11;
+ValeurCmp = R;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 4DC01806
+Path = /4DC016A7
+Reference = R10;
+ValeurCmp = R;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 4DC01808
+Path = /4DC0114D
+Reference = R9;
+ValeurCmp = R;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 4DC0180A
+Path = /4DC016BB
+Reference = R8;
+ValeurCmp = R;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 4DC0180C
+Path = /4DC016C2
+Reference = R7;
+ValeurCmp = R;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 4DC0180E
+Path = /4DC016A2
+Reference = R6;
+ValeurCmp = R;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 4DC01810
+Path = /4DC0128C
+Reference = R5;
+ValeurCmp = R;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 4DC01812
+Path = /4DC016BD
+Reference = R4;
+ValeurCmp = R;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 4DC01814
+Path = /4DC016C0
+Reference = R3;
+ValeurCmp = R;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 4DC01816
+Path = /4DC016A0
+Reference = R2;
+ValeurCmp = R;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 4DC01818
+Path = /4DC01624
+Reference = R1;
+ValeurCmp = R;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 4DC0181A
+Path = /4DC016A1
+Reference = C2;
+ValeurCmp = C;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 4DC0181C
+Path = /4DC016C1
+Reference = C3;
+ValeurCmp = C;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 4DC0181E
+Path = /4DC016BC
+Reference = C4;
+ValeurCmp = C;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 4DC01820
+Path = /4DC016D5
+Reference = C5;
+ValeurCmp = C;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 4DC01822
+Path = /4DC01610
+Reference = C1;
+ValeurCmp = C;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 4DC022A0
+Path = /4DC01B67
+Reference = P1;
+ValeurCmp = CONN_6;
+IdModule  = SIL-6;
+EndCmp
+
+BeginCmp
+TimeStamp = 4DC02A6A
+Path = /4DC0242A
+Reference = P2;
+ValeurCmp = CONN_6;
+IdModule  = SIL-6;
+EndCmp
+
+BeginCmp
+TimeStamp = 4DC1150B
+Path = 
+Reference = 1PIN;
+ValeurCmp = P***;
+IdModule  = 1pin;
+EndCmp
+
+BeginCmp
+TimeStamp = 4DC11518
+Path = 
+Reference = 1PIN;
+ValeurCmp = P***;
+IdModule  = 1pin;
+EndCmp
+
+BeginCmp
+TimeStamp = 4DC11526
+Path = 
+Reference = 1PIN;
+ValeurCmp = P***;
+IdModule  = 1pin;
+EndCmp
+
+BeginCmp
+TimeStamp = 4DC11534
+Path = 
+Reference = 1PIN;
+ValeurCmp = P***;
+IdModule  = 1pin;
+EndCmp
+
+EndListe

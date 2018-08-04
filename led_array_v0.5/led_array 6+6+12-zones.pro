@@ -1,0 +1,32 @@
+update=05.05.2011 21:25:32
+last_client=pcbnew
+[pcbnew]
+version=1
+PadDrlX=320
+PadDimH=600
+PadDimV=600
+BoardThickness=630
+SgPcb45=1
+TxtPcbV=800
+TxtPcbH=600
+TxtModV=600
+TxtModH=600
+TxtModW=120
+VEgarde=100
+DrawLar=150
+EdgeLar=150
+TxtLar=120
+MSegLar=150
+LastNetListRead=led_array 6+6+12.net
+[pcbnew/libraries]
+LibDir=
+LibName1=sockets
+LibName2=connect
+LibName3=pin_array
+LibName4=divers
+LibName5=libcms
+LibName6=display
+LibName7=valves
+LibName8=led
+LibName9=dip_sockets
+LibName10=D:\\kicadlibs\\2-ways

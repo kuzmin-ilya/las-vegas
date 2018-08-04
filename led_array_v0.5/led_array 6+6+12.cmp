@@ -1,0 +1,262 @@
+Cmp-Mod V01 Created by CvPCB (2010-05-05 BZR 2356)-stable date = 20.03.2011 15:36:57
+
+BeginCmp
+TimeStamp = /4D85F137;
+Reference = D1;
+ValeurCmp = RED;
+IdModule  = LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /4D85F139;
+Reference = D2;
+ValeurCmp = RED;
+IdModule  = LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /4D85F0BE;
+Reference = D3;
+ValeurCmp = RED;
+IdModule  = LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /4D85F046;
+Reference = D4;
+ValeurCmp = RED;
+IdModule  = LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /4D85F160;
+Reference = D5;
+ValeurCmp = RED;
+IdModule  = LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /4D85F162;
+Reference = D6;
+ValeurCmp = RED;
+IdModule  = LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /4D85F1BA;
+Reference = D7;
+ValeurCmp = BLUE;
+IdModule  = LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /4D85F1B8;
+Reference = D8;
+ValeurCmp = BLUE;
+IdModule  = LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /4D85F1BB;
+Reference = D9;
+ValeurCmp = BLUE;
+IdModule  = LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /4D85F1BD;
+Reference = D10;
+ValeurCmp = BLUE;
+IdModule  = LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /4D85F1B7;
+Reference = D11;
+ValeurCmp = BLUE;
+IdModule  = LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /4D85F1B5;
+Reference = D12;
+ValeurCmp = BLUE;
+IdModule  = LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /4D85F202;
+Reference = D13;
+ValeurCmp = WHITE;
+IdModule  = LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /4D85F200;
+Reference = D14;
+ValeurCmp = WHITE;
+IdModule  = LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /4D85F203;
+Reference = D15;
+ValeurCmp = WHITE;
+IdModule  = LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /4D85F205;
+Reference = D16;
+ValeurCmp = WHITE;
+IdModule  = LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /4D85F1FF;
+Reference = D17;
+ValeurCmp = WHITE;
+IdModule  = LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /4D85F1FD;
+Reference = D18;
+ValeurCmp = WHITE;
+IdModule  = LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /4D85F1F7;
+Reference = D19;
+ValeurCmp = WHITE;
+IdModule  = LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /4D85F1F9;
+Reference = D20;
+ValeurCmp = WHITE;
+IdModule  = LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /4D85F1F6;
+Reference = D21;
+ValeurCmp = WHITE;
+IdModule  = LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /4D85F1F4;
+Reference = D22;
+ValeurCmp = WHITE;
+IdModule  = LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /4D85F1FA;
+Reference = D23;
+ValeurCmp = WHITE;
+IdModule  = LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /4D85F1FC;
+Reference = D24;
+ValeurCmp = WHITE;
+IdModule  = LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /4D85F076;
+Reference = P1;
+ValeurCmp = CONN_4;
+IdModule  = PIN4;
+EndCmp
+
+BeginCmp
+TimeStamp = /4D85F138;
+Reference = R1;
+ValeurCmp = 68;
+IdModule  = R5;
+EndCmp
+
+BeginCmp
+TimeStamp = /4D85F08E;
+Reference = R2;
+ValeurCmp = 68;
+IdModule  = R5;
+EndCmp
+
+BeginCmp
+TimeStamp = /4D85F161;
+Reference = R3;
+ValeurCmp = 68;
+IdModule  = R5;
+EndCmp
+
+BeginCmp
+TimeStamp = /4D85F1B9;
+Reference = R4;
+ValeurCmp = 68;
+IdModule  = R5;
+EndCmp
+
+BeginCmp
+TimeStamp = /4D85F1BC;
+Reference = R5;
+ValeurCmp = 68;
+IdModule  = R5;
+EndCmp
+
+BeginCmp
+TimeStamp = /4D85F1B6;
+Reference = R6;
+ValeurCmp = 68;
+IdModule  = R5;
+EndCmp
+
+BeginCmp
+TimeStamp = /4D85F201;
+Reference = R7;
+ValeurCmp = 68;
+IdModule  = R5;
+EndCmp
+
+BeginCmp
+TimeStamp = /4D85F204;
+Reference = R8;
+ValeurCmp = 68;
+IdModule  = R5;
+EndCmp
+
+BeginCmp
+TimeStamp = /4D85F1FE;
+Reference = R9;
+ValeurCmp = 68;
+IdModule  = R5;
+EndCmp
+
+BeginCmp
+TimeStamp = /4D85F1F8;
+Reference = R10;
+ValeurCmp = 68;
+IdModule  = R5;
+EndCmp
+
+BeginCmp
+TimeStamp = /4D85F1F5;
+Reference = R11;
+ValeurCmp = 68;
+IdModule  = R5;
+EndCmp
+
+BeginCmp
+TimeStamp = /4D85F1FB;
+Reference = R12;
+ValeurCmp = 68;
+IdModule  = R5;
+EndCmp
+
+EndListe
